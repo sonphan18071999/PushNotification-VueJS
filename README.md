@@ -1,4 +1,4 @@
-# Daily Menu
+# Daily Meal
 
 This project provide users the recipe of dishs that serves for breakfast, lunch and dinner. Currently, it's focus on Vietnamese's taste.
 
